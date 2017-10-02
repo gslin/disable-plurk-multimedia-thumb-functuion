@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Disable Plurk multimedia thumb functuion
 // @namespace    https://blog.gslin.org/plurk
-// @version      0.2
+// @version      0.3
 // @description  Disable Plurk multimedia thumb function
 // @author       Gea-Suan Lin <darkkiller@gmail.com>
 // @include      *://www.plurk.com/*
