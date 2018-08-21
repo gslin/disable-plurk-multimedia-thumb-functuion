@@ -8,6 +8,7 @@
 // @exclude      *://www.plurk.com/w/*
 // @exclude      *://www.plurk.com/search*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function(){
